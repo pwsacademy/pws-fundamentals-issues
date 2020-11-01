@@ -3,4 +3,4 @@ blank_issues_enabled: false
 contact_links:
   - name: ⬇️ Installation
     url: https://github.com/pwsacademy/swift-setup/issues
-    about: Please file issues related to installing Swift and setting up an editor or IDE in our Swift Setup repository.
+    about: Please report issues related to installing Swift or setting up an editor or IDE in our Swift Setup repository.
